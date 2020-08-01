@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate software developer and student from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanhannon" alt="nathanhannon" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanhannon" alt="nathanhannon" /> </p>-->
 
 - 🔭 I’m currently working on [my Portfolio](https://www.github.com/NathanHannon/portfolio)
 
