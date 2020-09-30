@@ -3,9 +3,9 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanhannon" alt="nathanhannon" /> </p>-->
 
-- 🔭 I’m currently working on [my Portfolio](https://www.github.com/NathanHannon/portfolio)
+- 🔭 I’m currently working on [my Portfolio](https://github.com/NathanHannon/portfolio/tree/digial-ocean-build)
 
-- 🌱 I’m currently learning **Go, TypeScript, and PWAs**
+- 🌱 I’m currently learning **Flutter/Dart, TypeScript, and PWAs**
 
 - 💬 Ask me about **React, JavaScript, or C#**
 
