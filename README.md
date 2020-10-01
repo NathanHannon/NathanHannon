@@ -16,5 +16,5 @@
 <p align="center">
 <a href="https://dev.to/nathanhannon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nathanhannon" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/nathan-hannon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nathan-hannon" height="20" width="20" /></a
-<a href="https://www.buymeacoffee.com/NathanHannon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  
+<a href="https://www.buymeacoffee.com/NathanHannon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="20" width="30" ></a>  
 </p>
