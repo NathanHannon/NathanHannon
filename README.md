@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my Portfolio](https://github.com/NathanHannon/portfolio)
 
-- 🌱 I’m currently learning **Flutter/Dart, TypeScript, and PWAs**
+- 🌱 I’m currently learning **Flutter/Dart, TypeScript, and Python**
 
 - 💬 Ask me about **React, JavaScript, or C#**
 
