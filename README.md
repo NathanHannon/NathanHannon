@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [my Portfolio](https://github.com/NathanHannon/portfolio)
 
-- 🌱 I’m currently learning **Flutter/Dart, TensorFlow.js, and Go**
+- 🌱 I’m currently learning **[Flutter](https://github.com/flutter), [TensorFlow.js](https://github.com/tensorflow/tfjs), and [Go](https://github.com/golang/go)**
 
-- 💬 Ask me about **React, JavaScript, or C#**
+- 💬 Ask me about **JavaScript or C#**
 
 - 📫 How to reach me **nathan@hannon.me**
 
