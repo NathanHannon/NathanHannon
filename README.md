@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **[Flutter](https://github.com/flutter), [TensorFlow.js](https://github.com/tensorflow/tfjs), and [Go](https://github.com/golang/go)**
 
-- 💬 Ask me about **JavaScript or C#**
+- 💬 Ask me about **JavaScript, TypeScript, Angular or LoopBack 4**
 
 - 📫 How to reach me **nathan@hannon.me**
 
