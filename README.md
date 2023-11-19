@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my Portfolio](https://github.com/NathanHannon/portfolio)
 
-- 🌱 I’m currently learning **[Flutter](https://github.com/flutter), [TensorFlow.js](https://github.com/tensorflow/tfjs), and [Go](https://github.com/golang/go)**
+- 🌱 I’m currently learning **[Swift](https://github.com/apple/swift), [Spring Framework](https://github.com/spring-projects/spring-framework), and [Go](https://github.com/golang/go)**
 
 - 💬 Ask me about **JavaScript, TypeScript, Angular or LoopBack 4**
 
