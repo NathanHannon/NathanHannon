@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
+<h1 align="center">Hi, I'm Nathan 👋</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanhannon" alt="nathanhannon" /> </p>-->
